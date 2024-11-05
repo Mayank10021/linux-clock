@@ -52,3 +52,7 @@ Ensure that you are running **Fedora Linux** or any Linux distribution with `bas
 - Ensure that the script has execution permissions.
 - If colors do not display correctly, check terminal compatibility for ANSI color codes.
 
+## Output Screeshot
+
+![Screenshot from 2024-11-05 21-15-56](https://github.com/user-attachments/assets/d0a187d7-1537-4ffd-9a87-ffa7cf3e6b45)
+
